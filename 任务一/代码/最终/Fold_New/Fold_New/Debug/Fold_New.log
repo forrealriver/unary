@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  XmlRead.cpp
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  Log.cpp
+  Frame.cpp
+  Fold_NewDlg.cpp
+  Fold_New.cpp
+  Find.cpp
+  Filter.cpp
+  Copy.cpp
+  Compare.cpp
+  正在生成代码...
+Compare.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Fold_New.vcxproj -> G:\壹进制\任务一\代码\最终\Fold_New\Debug\模块获取工具.exe

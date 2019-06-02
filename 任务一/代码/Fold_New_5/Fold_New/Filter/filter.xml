@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<filter>
+    <filter-name>lan free文件备份</filter-name>
+    <filter-name>db2定时</filter-name>
+    <filter-name>安装脚本</filter-name>  
+    <filter-name>vm</filter-name>  
+</filter>
